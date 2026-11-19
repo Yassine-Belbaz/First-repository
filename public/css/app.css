@@ -1,0 +1,20 @@
+@import "tailwindcss";
+:root{
+    --color-orange-fath: #FFFCFA;
+    --orange-97: #FFF5F0;
+    --orange-95: #FFEFE5;
+    -orange-90: #FFDECC;
+    --orange-80: #FFBE99;
+    --orange-75: #FFAE80;
+    --orange-70: #FF9E66;
+    --orange-65: #FF8D4C;
+
+    --grey-10: #191919;
+    --grey-15: #262626;
+    --grey-20: #333333;
+    --grey-30: #4C4C4D;
+    --grey-35: #59595A;
+    --grey-40: #656567;
+    --grey-60: #98989A;
+    --grey-70: #B3B3B3;
+}
